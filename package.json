@@ -1,0 +1,11 @@
+{
+  "name": "open-3D-tools",
+  "version": "1.0.0",
+  "description": "Map of open 3D visualization tools",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kristofer Skyttner",
+  "license": "MIT"
+}
